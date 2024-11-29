@@ -29,3 +29,6 @@
 | Payment             | Large:2 Medium:1 Small:0                               |
 | Monthly_Balance                | Monthly balance in the account.                                 |
 | Credit_Score                  | Target variable - credit score of the customer.                |
+
+100,000 rows \
+[Data](https://github.com/ronineume/Credit_PredictionbyANN/raw/refs/heads/main/processed_credit_score_data.csv)
