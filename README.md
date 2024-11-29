@@ -1,7 +1,7 @@
 # Credit_PredictionbyANN
 - 2 Multilayer Nerual Networks 
-- One for binary classification 
-- One for multiclass classification 
+- One for binary classification [Here](https://github.com/ronineume/Credit_PredictionbyANN/blob/main/Binary.ipynb)
+- One for multiclass classification []
 
 # Dataset
 | Feature                        | Description                                                      |
