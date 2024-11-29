@@ -6,12 +6,8 @@
 # Dataset
 | Feature                        | Description                                                      |
 |-------------------------------|------------------------------------------------------------------|
-| ID                            | Unique identifier for each entry in the dataset.                |
-| Customer_ID                   | Identifier for each customer.                                   |
 | Month                         | Month of data collection.                                       |
-| Name                          | Name of the customer.                                           |
 | Age                           | Age of the customer.                                           |
-| SSN                           | Social Security Number of the customer.                         |
 | Occupation                    | Occupation of the customer.                                     |
 | Annual_Income                 | Annual income of the customer.                                  |
 | Monthly_Inhand_Salary         | Monthly salary after deductions.                                 |
