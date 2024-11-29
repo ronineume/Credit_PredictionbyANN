@@ -10,7 +10,6 @@
 | Age                           | Age of the customer.                                           |
 | Occupation                    | Occupation of the customer.                                     |
 | Annual_Income                 | Annual income of the customer.                                  |
-| Monthly_Inhand_Salary         | Monthly salary after deductions.                                 |
 | Num_Bank_Accounts             | Number of bank accounts the customer has.                       |
 | Num_Credit_Card               | Number of credit cards the customer has.                        |
 | Interest_Rate                 | Interest rate applied on loans.                                 |
