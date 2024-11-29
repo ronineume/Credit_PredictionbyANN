@@ -1,7 +1,7 @@
 # Credit_PredictionbyANN
 - 2 Multilayer Nerual Networks 
 - One for binary classification [Here](https://github.com/ronineume/Credit_PredictionbyANN/blob/main/Binary.ipynb)
-- One for multiclass classification []
+- One for multiclass classification [Here](https://github.com/ronineume/Credit_PredictionbyANN/blob/main/Multiclass.ipynb)
 
 # Dataset
 | Feature                        | Description                                                      |
@@ -14,7 +14,6 @@
 | Num_Credit_Card               | Number of credit cards the customer has.                        |
 | Interest_Rate                 | Interest rate applied on loans.                                 |
 | Num_of_Loan                   | Number of loans the customer has.                               |
-| Type_of_Loan                  | Type of loan taken by the customer.                             |
 | Delay_from_due_date           | Number of days delayed from due date for payments.             |
 | Num_of_Delayed_Payment        | Number of delayed payments made by the customer.               |
 | Changed_Credit_Limit          | Indicates if the credit limit has been changed.                |
