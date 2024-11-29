@@ -27,6 +27,7 @@
 | Payment_of_Min_Amount         | Indicates if minimum payment amount is met.                    |
 | Total_EMI_per_month           | Total Equated Monthly Installment (EMI) paid by the customer.  |
 | Amount_invested_monthly       | Amount invested monthly by the customer.                        |
-| Payment_Behaviour             | Payment behavior of the customer.                               |
+| Spent             | High:1 Low:0                               |
+| Payment             | Large:2 Medium:1 Small:0                               |
 | Monthly_Balance                | Monthly balance in the account.                                 |
 | Credit_Score                  | Target variable - credit score of the customer.                |
